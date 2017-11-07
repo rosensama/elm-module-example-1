@@ -1,6 +1,3 @@
-elm package install
-elm reactor
-
 ```
 Detected errors in 1 module.
 
